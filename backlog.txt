@@ -1,8 +1,24 @@
 General
-1. Agiles -fácil
-2. SQL
+1. Agiles -Realizado e implementado en proyectos en proceso y futuros.
+2. SQL 
 3. Linked in traducción
 4. PowerBi
 5. Azure, Aws 
 
-Vivo
+To do
+SQL. 
+    [Alta]Lecciones
+    [Media]Proyecto
+    [Baja]Publicaciones
+
+Agiles
+    [Media]Publicar sobre Agiles en Linked In.
+
+General
+    []
+
+In progress 
+    Lecciones diarias SQL. 
+
+Done
+Agiles realizado
