@@ -9,6 +9,11 @@ Chat para saber el rango salarial de un científico de datos.
 25/09/25
 Se me retroalimentó que me falta SQL y scrum/Agiles. 
     1. Revisión de un video de 57 minutos sobre Agiles y generación de notas en git como medida de fortalecer ese punto débil. 
+2. He participado en networking y respuestas a publicaciones contribuyendo a mayor presencia en línea. 
 
+30/09/25
+1. envié solicitudes en linkedin (networking)
+2. marqué pasos a seguir de revisión de empresas para futuras entrevistas
+3. De días previos me he dado de alta en greenhouse, baires dev (agencias de contratación)
 
 
