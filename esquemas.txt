@@ -1,0 +1,7 @@
+Aplicacion 
+    reclutadores
+    headhunters
+    Portales 
+    agencias
+        Acceso a reclutadores por linkedin. 
+        Portales, headhunters y agencias en el archivo headhunters_portales_y_agencias.txt
