@@ -1,26 +1,83 @@
 FODA/SWOT
 Fuerzas 
 - ¿Cuáles son mis principales habilidades y competencias?
+    Curiosidad
+    Lógico-Crítico 
+    Intenso-Me gusta profundizar. 
 - ¿Qué experiencias y logros destacan en mi carrera hasta ahora?
+    Investigación de frontera. 
+    A+ student. Estudiante destacado. 
+    Múltiples estudios. Idiomas, programación, ciencia. 
 - ¿Qué me diferencia de otros candidatos?
+    Versatilidad. - Conocimiento de idiomas, matemática, ciencias químicas y biológicas. 
+    Pasión demostrable. -
+    Cultura diversa -Conocimientos detallados basados en el método científico e investigación.
+
 - ¿Qué aspectos de mi formación o habilidades están especialmente valorados en mi ahora campo profesional?
+    El valor de la ciencia va en alza. 
+    Biotecnología es un área nicho con sus ramas como la bioinformática. 
+    Potencial creativo aumentado por tanto tecnología como ciencia.
+
 - ¿**Qué me diferencia y aporta valor?**
+    Credibilidad científica. Puedo aportar motivado por los sistemas biológicos siendo un punto de creatividad y de apoyo sobre la salud. 
+
 
 oportunidades
 - ¿Qué tendencias actuales en mi industria pueden beneficiarme?
+    Aumento de farmacéuticas. 
+        El nicho entre análisis de datos y materia científica es de gran interés actual. 
+        
 - ¿Qué nuevas habilidades o certificaciones están en demanda en mi campo? ¿Necesito tener todas? ¿Puedo priorizar?
+    Nube
+    SQL
+        En proceso
+
+    Visualizadores (powerBI, tableau)
+        Se tienen que conseguir
+
+    Big data analysis
+        Pyspark, pytorch. Conseguir eventualmente en posiciones más avanzadas. 
+    
 - ¿Existen oportunidades de networking o eventos que puedan ayudarme en mi búsqueda de empleo?
+    Con farmacéuticas
+    Biohackaton y hackatones
+    Linkedin
+    Empresas
+    Agencias
+    Headhunters
+    Activación de contactos
+
 - ¿Qué empresas o sectores están creciendo y podrían ofrecerme oportunidades laborales?
+    farmacéuticas
+    consultoría IT general
+    start ups
+
 
 
 Debilidades
 - ¿En qué áreas necesito mejorar o adquirir más conocimientos?
+    Detalles de estadística y ML. 
+    Nube 
+    Visualizadores
 - ¿Qué habilidades o experiencias me faltan para cumplir con los requisitos de mi objetivo profesional?
+    Proyectos en ML propios
+    Proyectos en Nube
+    Proyectos en Visualizadores
+
 - ¿Qué aspectos de mi perfil podrían ser considerados como desventajas por los empleadores?
+    Formación base no matemática o tecnológica
+
 - ¿Qué feedback he recibido en entrevistas o evaluaciones anteriores que indica áreas de mejora?
+    Conocimiento de metodologías de trabajo 
+    Particularidades de tipos de modelos de aprendizaje
+    Complementar proyectos y herramientas
 
 Amenazas
 - ¿Cuáles son los desafíos actuales en el mercado laboral para mi perfil profesional?
+    Alta oferta laboral (muchos concursantes)
 - ¿Qué factores económicos o de la industria podrían impactar negativamente en mi búsqueda de empleo?
+
 - ¿Qué competencia hay en mi área de especialización y cómo podría afectar mi empleabilidad?
+
 - ¿Existen cambios en las demandas del mercado que podrían hacer que mis habilidades queden obsoletas?
+    IA, agentes y Programas que cumplen con roles básicos de análisis. 
