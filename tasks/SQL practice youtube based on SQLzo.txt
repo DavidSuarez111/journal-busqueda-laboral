@@ -1,0 +1,42 @@
+SQL practice *youtube based on SQLzoo
+
+SELECT 
+	a.player
+FROM 
+	goal as a 
+LEFT JOIN
+	game as b 
+ON 
+	a.matchid = b.id
+WHERE 
+	b.stadium = 'National Stadium, Warsaw';
+
+SELECT 
+	name 
+FROM 
+	actor as a 
+JOIN 
+	casting as c 
+ON 
+	c.actorid = a.id 
+JOIN 
+	movie as m 
+ON 
+	m.id = c.movieid 
+WHERE
+	m.id in (
+SELECT 
+	m.id 
+FROM 
+	actor as a 
+JOIN 
+	casting as c
+ON 
+	a.id = c.actorid
+JOIN 
+	movie m on c.movieid = m.id
+WHERE 
+	a.name = 'Art Garfunkel'
+) 
+
+AND name != 'Art Garfunkel';
