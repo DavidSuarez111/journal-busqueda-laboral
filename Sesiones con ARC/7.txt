@@ -1,0 +1,33 @@
+---
+Seguimientos a hacer
+Enfoque contactos 
+
+    Correo para pedir feedback. 
+        a elena gmail. 
+            listo
+
+    Mandar CV e incluir tu whatsapp. 
+        buscar empujar los procesos de selección.
+
+    Dedicarme a full a mandar en cada empresa. 
+        Buscar en cada postulación. 
+            empresa en linkedin, agregar. 
+                Talent aquisition, HR, IT recruiter... 
+
+    Publicar sobre experiencias. 
+------------------
+    Postulando 
+
+    Generé una lista de RH por empresa con información clave
+        nombre: 
+        empresa: 
+        (booleanos)
+        le mandé solicitud:
+        me aceptó:
+        lo contacté: 
+
+    Hice networking de RH por empresa.
+
+    Continué el EDA del funnel y lo exporté a BI para incluirlo como proyecto. 
+    
+     
